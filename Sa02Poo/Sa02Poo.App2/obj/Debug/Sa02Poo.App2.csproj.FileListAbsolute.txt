@@ -1,0 +1,11 @@
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\bin\Debug\Sa02Poo.App2.exe.config
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\bin\Debug\Sa02Poo.App2.exe
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\bin\Debug\Sa02Poo.App2.pdb
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\bin\Debug\Sa02Poo.RegraDeNegocio.dll
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\bin\Debug\Sa02Poo.RegraDeNegocio.pdb
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\obj\Debug\Sa02Poo.App2.csproj.AssemblyReference.cache
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\obj\Debug\Sa02Poo.App2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\obj\Debug\Sa02Poo.App2.csproj.CoreCompileInputs.cache
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\obj\Debug\Sa02Poo.App2.csproj.CopyComplete
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\obj\Debug\Sa02Poo.App2.exe
+C:\Users\vinni\source\repos\Sa02Poo\Sa02Poo.App2\obj\Debug\Sa02Poo.App2.pdb
